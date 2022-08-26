@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @godwinwabwile
-- 👀 I’m interested in : opensource softwware and automation solutions
-
+- 👀 I’m interested in : opensource softwware, web, mobile and desktop apps,  and automation solutions
+- Currently learning cloud technologies and AI
 - 📫 How to reach me : wegowabz1@gmail.com
 
 <!---
