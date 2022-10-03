@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @godwinwabwile
 - 👀 I’m interested in : opensource softwware, web, mobile and desktop apps,  and automation solutions
 - Currently learning cloud technologies and AI
-- 📫 How to reach me : wegowabz1@gmail.com
+- 📫 How to reach me : wekesa.godwaye@gmail.com
 
 <!---
 godwinwabwile/godwinwabwile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
