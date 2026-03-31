@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @godwinwabwile
+- 👋 Hi, I’m @godwinwekesa
 - 👀 I’m interested in : opensource softwware, web, mobile and desktop apps,  and automation solutions
 - Currently learning cloud technologies and AI
 - 📫 How to reach me : wekesa.godwaye@gmail.com
